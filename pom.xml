@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.wubinben.katas.bdd.cucumber</groupId>
+  <groupId>com.qisibajie.katas.bdd.cucumber</groupId>
   <artifactId>hotel-world-clocks-cucumber</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
